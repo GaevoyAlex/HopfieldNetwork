@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mrzvis-2"
+version = "0.1.0"
+description = ""
+authors = ["Александр <gaevoy45@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.40.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
