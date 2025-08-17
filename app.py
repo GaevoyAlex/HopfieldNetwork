@@ -22,6 +22,9 @@ def plot_pattern(pattern: np.ndarray, size: int, title: str = '') -> plt.Figure:
     ax.axis('off')
     return fig
 
+
+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
+
 def initialize_session_state():
     """Инициализация состояния сессии"""
     if 'network' not in st.session_state:
